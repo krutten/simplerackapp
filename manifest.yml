@@ -1,0 +1,4 @@
+---
+applications:
+- name: simplerack
+  memory: 256M
